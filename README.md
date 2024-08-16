@@ -93,7 +93,7 @@ To kickstart your journey with the MovieAPI project, follow these simple steps:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/Vikashkatiyar/Movie_Api_Backend.git
+   git clone https://github.com/Aditya-Tanawade/Movie_Api_Backend.git
    ```
 
 2. **Navigate to the Project Directory:**
@@ -129,8 +129,8 @@ Now you're all set! Dive into the MovieAPI project, manage movie-related data ef
 
 # 🌟 **Project Author**
 
-## **<span style="color:red;">Vikash Katiyar</span>**
+## **<span style="color:red;">Aditya Tanawade</span>**
 
-📧 **Email:** vikashktr018@gmail.com
+📧 **Email:** tanawade.aditya04@gmail.com
 
 Feel free to reach out to the author for any inquiries, feedback, or collaboration opportunities related to the MovieAPI project. Your input is valuable! 🚀
